@@ -39,7 +39,7 @@ export default function Foreword() {
           </div>
 
           <Image
-            src="/assets/images/husband.png"
+            src="/assets/husband.png"
             alt=""
             height={120}
             width={120}
@@ -51,7 +51,7 @@ export default function Foreword() {
 
         <div className="animate-box md:flex lg:w-1/2">
           <Image
-            src="/assets/images/wife.png"
+            src="/assets/wife.png"
             alt=""
             height={120}
             width={120}
