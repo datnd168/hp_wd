@@ -14,10 +14,7 @@ export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center">
       <head>
-        <meta
-          property="og:image"
-          content="https://happy-wedding-seven.vercel.app/assets/img7.jpg"
-        />
+        <meta property="og:image" content="/assets/img7.jpg" />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
       </head>
