@@ -16,7 +16,7 @@ export default function WeddingEvent() {
 
         <div className="relative hidden h-full lg:block lg:w-[45%]">
           <Image
-            src="/assets/img_7.jpg"
+            src="/assets/img7.jpg"
             alt=""
             fill
             style={{ objectFit: "cover" }}

@@ -16,7 +16,7 @@ export default async function Home() {
       <head>
         <meta
           property="og:image"
-          content="https://linh-thuy.happy-wd.com/assets/img_7"
+          content="https://happy-wedding-seven.vercel.app/assets/img7.jpg"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
